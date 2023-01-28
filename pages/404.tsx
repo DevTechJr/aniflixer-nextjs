@@ -6,7 +6,7 @@ const Error = () => {
     <div>
       <Header />
       <div className="text-center text-lg font-semibold">
-        This page doesn't exist...
+        This page does not exist...
       </div>
     </div>
   );
